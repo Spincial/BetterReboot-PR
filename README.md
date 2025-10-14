@@ -12,11 +12,10 @@
 
 - Register via. API (PROGRESS: 100%) - [BetterMomentum](https://github.com/Project-BlackFN/BetterMomentum) optional, code changes needed
 
-- per Kill 75 V-Bucks (PROGRESS: 0%) - [BetterMomentum](https://github.com/Project-BlackFN/BetterMomentum) optional, code changes needed
 
 - Auto Restart (PROGRESS: 100%) - [ServerStarter V2](https://github.com/Project-BlackFN/ServerStarter) needed
 
-- Multi Servers (PROGRESS: 50%) - [BetterMomentum](https://github.com/Project-BlackFN/BetterMomentum) needed and [ServerStarter V2](https://github.com/Project-BlackFN/ServerStarter) optional, but you need an Implementation for the Multi-Account Setup from [BetterMomentum](https://github.com/Project-BlackFN/BetterMomentum)
+- Multi Servers (PROGRESS: 100%) - [BetterMomentum](https://github.com/Project-BlackFN/BetterMomentum) needed and [ServerStarter V2](https://github.com/Project-BlackFN/ServerStarter) optional, but you need an Implementation for the Multi-Account Setup from [BetterMomentum](https://github.com/Project-BlackFN/BetterMomentum)
 
 
 **Installation:**
